@@ -119,17 +119,4 @@ public class OurHashMapTest {
 	  System.out.println(aMap.theMap.keySet());
   }
   
-  /*
-  @Test 
-  public void testMain() { 
-	  ProbableTextWithMap aMap = new ProbableTextWithMap("Alice", 12);
-	  String faultyNGram = aMap.printRandom(130);
-	  System.out.println(); 
-	  System.out.println(faultyNGram); 
-	  //int faultyIndex = aMap.theMap.hashCode(faultyNGram); 
-	  assertTrue(aMap.theMap.containsKey(faultyNGram)); 
-	  System.out.println(aMap.theMap.get(faultyNGram)); 
-  }
-*/
-  
 }
