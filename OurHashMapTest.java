@@ -3,7 +3,7 @@
  * 
  * There is also an @Test to show how to read Alice and it can be found
  * 
- * @author Rick Mercer and YOUR NAME
+ * @author Rick Mercer and Osho Sharma
  */
 import static org.junit.Assert.assertNull;
 import static org.junit.jupiter.api.Assertions.*;
