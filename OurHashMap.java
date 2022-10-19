@@ -2,9 +2,6 @@
 /**
  * Use a hash table with separate chaining hashing to implement a portion of
  * interface java.util.Map<K, V>
- * 
- * @author Rick Mercer
- * @Author Osho Sharma
  */
 
 import java.util.Collection;
