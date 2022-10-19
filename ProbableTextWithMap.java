@@ -106,9 +106,4 @@ public class ProbableTextWithMap {
 
 	}
 
-	// Add any number of other methods here. Suggestions:
-	// StringBuffer getBookAsString()
-	// String getRandomNGram()
-	// void buildTheMap()
-
 }
